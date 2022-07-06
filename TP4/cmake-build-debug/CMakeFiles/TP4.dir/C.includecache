@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Public/CLionProjects/NF16/TP4/arbre.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+ctype.h
+-
+math.h
+-
+arbre.h
+C:/Users/Public/CLionProjects/NF16/TP4/arbre.h
+tp3.h
+C:/Users/Public/CLionProjects/NF16/TP4/tp3.h
+
+C:/Users/Public/CLionProjects/NF16/TP4/arbre.h
+tp3.h
+C:/Users/Public/CLionProjects/NF16/TP4/tp3.h
+
+C:/Users/Public/CLionProjects/NF16/TP4/tp3.h
+

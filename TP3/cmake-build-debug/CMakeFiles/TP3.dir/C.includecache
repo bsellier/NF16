@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Public/CLionProjects/NF16/TP3/main.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+tp3.h
+C:/Users/Public/CLionProjects/NF16/TP3/tp3.h
+
+C:/Users/Public/CLionProjects/NF16/TP3/tp3.c
+stdio.h
+-
+stdlib.h
+-
+ctype.h
+-
+string.h
+-
+tp3.h
+C:/Users/Public/CLionProjects/NF16/TP3/tp3.h
+
+C:/Users/Public/CLionProjects/NF16/TP3/tp3.h
+
